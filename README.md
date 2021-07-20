@@ -5,3 +5,7 @@
 Section 1: Getting Started
 
 - Complete
+
+Section 2: JavaScript Refresher
+
+- Complete
