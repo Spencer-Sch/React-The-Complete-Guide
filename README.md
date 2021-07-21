@@ -13,3 +13,7 @@ Section 2: JavaScript Refresher
 Section 3: React Basics & Working With Components
 
 - Complete
+
+Section 4: React State & Working with Events
+
+- Lesson 1 through 6 complete
