@@ -9,3 +9,7 @@ Section 1: Getting Started
 Section 2: JavaScript Refresher
 
 - Complete
+
+Section 3: React Basics & Working With Components
+
+- Complete
