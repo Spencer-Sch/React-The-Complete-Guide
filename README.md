@@ -16,4 +16,4 @@ Section 3: React Basics & Working With Components
 
 Section 4: React State & Working with Events
 
-- Lesson 1 through 6 complete
+- Complete
