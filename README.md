@@ -17,3 +17,7 @@ Section 3: React Basics & Working With Components
 Section 4: React State & Working with Events
 
 - Complete
+
+Section 5: Rendering Lists & Conditional Content
+
+- Lessons 1 through 6 Complete
