@@ -24,4 +24,4 @@ Section 5: Rendering Lists & Conditional Content
 
 Section 6: Styling React Components
 
-- Lessons 1 through 3 complete
+- Complete
