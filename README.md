@@ -25,3 +25,7 @@ Section 5: Rendering Lists & Conditional Content
 Section 6: Styling React Components
 
 - Complete
+
+Section 7: Debugging React Apps
+
+- Complete
