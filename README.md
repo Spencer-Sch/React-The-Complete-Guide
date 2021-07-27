@@ -21,3 +21,7 @@ Section 4: React State & Working with Events
 Section 5: Rendering Lists & Conditional Content
 
 - Complete
+
+Section 6: Styling React Components
+
+- Lessons 1 through 3 complete
