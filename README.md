@@ -32,4 +32,4 @@ Section 7: Debugging React Apps
 
 Section 8: Time to Practice: A Complete Practice Project
 
-- Lessons 1 through 8 complete
+- Complete
