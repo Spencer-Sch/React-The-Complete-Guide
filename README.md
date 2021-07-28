@@ -33,3 +33,8 @@ Section 7: Debugging React Apps
 Section 8: Time to Practice: A Complete Practice Project
 
 - Complete
+
+Section 9: Diving Deeper: Working with Fragments, Portals &
+"Refs"
+
+- Complete
