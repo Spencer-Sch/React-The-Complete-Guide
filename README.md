@@ -38,3 +38,8 @@ Section 9: Diving Deeper: Working with Fragments, Portals &
 "Refs"
 
 - Complete
+
+Section 10: Advanced: Handling Side Effects, Using Reducers &
+Using the Context API
+
+- Lessons 1 through 12 complete
