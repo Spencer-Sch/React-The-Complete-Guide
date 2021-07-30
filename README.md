@@ -43,3 +43,7 @@ Section 10: Advanced: Handling Side Effects, Using Reducers &
 Using the Context API
 
 - Complete
+
+Section 11: Practice Project: Building a Food Order App
+
+- Lessons 1 through 11 complete
