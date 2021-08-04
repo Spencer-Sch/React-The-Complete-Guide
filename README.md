@@ -46,4 +46,4 @@ Using the Context API
 
 Section 11: Practice Project: Building a Food Order App
 
-- Lessons 1 through 11 complete
+- Complete
