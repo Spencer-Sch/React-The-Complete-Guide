@@ -52,3 +52,8 @@ Section 12: A Look Behind The Scenes Of React & Optimization
 Techniques
 
 - Complete
+
+Section 13: An Alternative Way Of Building Components:
+Class-based Components
+
+- Complete
