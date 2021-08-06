@@ -51,4 +51,4 @@ Section 11: Practice Project: Building a Food Order App
 Section 12: A Look Behind The Scenes Of React & Optimization
 Techniques
 
-- Lessons 1 through 5 complete
+- Complete
