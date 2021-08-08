@@ -57,3 +57,8 @@ Section 13: An Alternative Way Of Building Components:
 Class-based Components
 
 - Complete
+
+Section 14: Sending Http Requests (e.g. Connecting to a
+Database)
+
+- Complete
