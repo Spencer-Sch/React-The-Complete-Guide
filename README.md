@@ -75,3 +75,8 @@ Section 17: Practice Project: Adding Http & Forms To The Food
 Order App
 
 - Complete
+
+Section 18: Diving into Redux (An Alternative To The Context
+API)
+
+- Lessons 1 through 5 complete
