@@ -79,4 +79,4 @@ Order App
 Section 18: Diving into Redux (An Alternative To The Context
 API)
 
-- Lessons 1 through 5 complete
+- Lessons 1 through 12 complete
