@@ -70,3 +70,8 @@ Section 15: Building Custom React Hooks
 Section 16: Working with Forms & User Input
 
 - Complete
+
+Section 17: Practice Project: Adding Http & Forms To The Food
+Order App
+
+- Complete
