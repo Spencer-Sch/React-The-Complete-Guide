@@ -80,3 +80,7 @@ Section 18: Diving into Redux (An Alternative To The Context
 API)
 
 - Complete
+
+Section 19: Advanced Redux
+
+- Complete
