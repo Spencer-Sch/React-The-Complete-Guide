@@ -84,3 +84,7 @@ API)
 Section 19: Advanced Redux
 
 - Complete
+
+Section 20: Building a Multi-Page SPA with React Router
+
+- Lessons 1 through 15 complete
