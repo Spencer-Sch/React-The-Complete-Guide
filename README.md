@@ -88,3 +88,7 @@ Section 19: Advanced Redux
 Section 20: Building a Multi-Page SPA with React Router
 
 - Complete
+
+Section 21: Deploying React Apps
+
+- Complete
