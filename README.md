@@ -92,3 +92,7 @@ Section 20: Building a Multi-Page SPA with React Router
 Section 21: Deploying React Apps
 
 - Complete
+
+Section 22: Adding Authentication To React Apps
+
+- Lessons 1 through 6 complete
