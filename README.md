@@ -95,4 +95,4 @@ Section 21: Deploying React Apps
 
 Section 22: Adding Authentication To React Apps
 
-- Lessons 1 through 6 complete
+- Complete
