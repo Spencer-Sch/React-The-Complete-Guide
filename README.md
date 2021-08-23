@@ -96,3 +96,7 @@ Section 21: Deploying React Apps
 Section 22: Adding Authentication To React Apps
 
 - Complete
+
+Section 23: A (Pretty Deep Dive) Introduction to Next.js
+
+- Skipped
