@@ -100,3 +100,7 @@ Section 22: Adding Authentication To React Apps
 Section 23: A (Pretty Deep Dive) Introduction to Next.js
 
 - Skipped
+
+Section 24: Animating React Apps
+
+- Complete
