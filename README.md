@@ -104,3 +104,7 @@ Section 23: A (Pretty Deep Dive) Introduction to Next.js
 Section 24: Animating React Apps
 
 - Complete
+
+Section 25: Replacing Redux with React Hooks
+
+- Complete
