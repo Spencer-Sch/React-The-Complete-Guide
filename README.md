@@ -112,3 +112,17 @@ Section 25: Replacing Redux with React Hooks
 Section 26: Testing React Apps (Unit Tests)
 
 - Complete
+
+Section 27: React + TypeScript
+
+- Skipped
+
+Section 30: Course Roundup
+
+- Complete
+
+Section 31: This Course Got Updated!
+
+- Skipped
+
+COURSE COMPLETE!
