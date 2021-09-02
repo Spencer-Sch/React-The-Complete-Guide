@@ -111,4 +111,4 @@ Section 25: Replacing Redux with React Hooks
 
 Section 26: Testing React Apps (Unit Tests)
 
-- Lessons 1 through 11 complete
+- Complete
