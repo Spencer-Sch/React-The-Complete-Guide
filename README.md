@@ -1,128 +1,133 @@
-# My progress working through "React - The Complete Guide" by Maximilian Schwarzmuller
+# React - The Complete Guide
 
-## I'm not showing code files to respect Max's intellectual property
+#### by Maximilian Schwarzmuller
 
-Section 1: Getting Started
+[Udemy Link](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
 
-- Complete
+---
 
-Section 2: JavaScript Refresher
+## Description
 
-- Complete
+Tracking my progress working through the course.
 
-Section 3: React Basics & Working With Components
+---
 
-- Complete
+## Course Sections
 
-Section 4: React State & Working with Events
+#### Section 1: Getting Started
 
-- Complete
+✅ Complete
 
-Section 5: Rendering Lists & Conditional Content
+#### Section 2: JavaScript Refresher
 
-- Complete
+✅ Complete
 
-Section 6: Styling React Components
+#### Section 3: React Basics & Working With Components
 
-- Complete
+✅ Complete
 
-Section 7: Debugging React Apps
+#### Section 4: React State & Working with Events
 
-- Complete
+✅ Complete
 
-Section 8: Time to Practice: A Complete Practice Project
+#### Section 5: Rendering Lists & Conditional Content
 
-- Complete
+✅ Complete
 
-Section 9: Diving Deeper: Working with Fragments, Portals &
-"Refs"
+#### Section 6: Styling React Components
 
-- Complete
+✅ Complete
 
-Section 10: Advanced: Handling Side Effects, Using Reducers &
-Using the Context API
+#### Section 7: Debugging React Apps
 
-- Complete
+✅ Complete
 
-Section 11: Practice Project: Building a Food Order App
+#### Section 8: Time to Practice: A Complete Practice Project
 
-- Complete
+✅ Complete
 
-Section 12: A Look Behind The Scenes Of React & Optimization
-Techniques
+#### Section 9: Diving Deeper: Working with Fragments, Portals & "Refs"
 
-- Complete
+✅ Complete
 
-Section 13: An Alternative Way Of Building Components:
-Class-based Components
+#### Section 10: Advanced: Handling Side Effects, Using Reducers & Using the Context API
 
-- Complete
+✅ Complete
 
-Section 14: Sending Http Requests (e.g. Connecting to a
-Database)
+#### Section 11: Practice Project: Building a Food Order App
 
-- Complete
+✅ Complete
 
-Section 15: Building Custom React Hooks
+#### Section 12: A Look Behind The Scenes Of React & Optimization Techniques
 
-- Complete
+✅ Complete
 
-Section 16: Working with Forms & User Input
+#### Section 13: An Alternative Way Of Building Components: Class-based Components
 
-- Complete
+✅ Complete
 
-Section 17: Practice Project: Adding Http & Forms To The Food
-Order App
+#### Section 14: Sending Http Requests (e.g. Connecting to a Database)
 
-- Complete
+✅ Complete
 
-Section 18: Diving into Redux (An Alternative To The Context
-API)
+#### Section 15: Building Custom React Hooks
 
-- Complete
+✅ Complete
 
-Section 19: Advanced Redux
+#### Section 16: Working with Forms & User Input
 
-- Complete
+✅ Complete
 
-Section 20: Building a Multi-Page SPA with React Router
+#### Section 17: Practice Project: Adding Http & Forms To The Food Order App
 
-- Complete
+✅ Complete
 
-Section 21: Deploying React Apps
+#### Section 18: Diving into Redux (An Alternative To The Context API)
 
-- Complete
+✅ Complete
 
-Section 22: Adding Authentication To React Apps
+#### Section 19: Advanced Redux
 
-- Complete
+✅ Complete
 
-Section 23: A (Pretty Deep Dive) Introduction to Next.js
+#### Section 20: Building a Multi-Page SPA with React Router
 
-- Skipped
+✅ Complete
 
-Section 24: Animating React Apps
+#### Section 21: Deploying React Apps
 
-- Complete
+✅ Complete
 
-Section 25: Replacing Redux with React Hooks
+#### Section 22: Adding Authentication To React Apps
 
-- Complete
+✅ Complete
 
-Section 26: Testing React Apps (Unit Tests)
+#### Section 23: A (Pretty Deep Dive) Introduction to Next.js
 
-- Complete
+❌ Skipped
 
-Section 27: React + TypeScript
+#### Section 24: Animating React Apps
 
-- Skipped
+✅ Complete
 
-Section 30: Course Roundup
+#### Section 25: Replacing Redux with React Hooks
 
-- Complete
+✅ Complete
 
-Section 31: This Course Got Updated!
+#### Section 26: Testing React Apps (Unit Tests)
 
-- Skipped
+✅ Complete
 
-COURSE COMPLETE!
+#### Section 27: React + TypeScript
+
+❌ Skipped
+
+#### Section 30: Course Roundup
+
+✅ Complete
+
+#### Section 31: This Course Got Updated!
+
+⛔ Unnecessary
+
+## COURSE COMPLETE!
