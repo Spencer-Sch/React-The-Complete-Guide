@@ -8,7 +8,7 @@
 
 ## Description
 
-Tracking my progress working through the course.
+Tracking my progress through the course.
 
 ---
 
@@ -131,3 +131,5 @@ Tracking my progress working through the course.
 ⛔ Unnecessary
 
 ## COURSE COMPLETE!
+
+[Back To The Top](#react---the-complete-guide)
